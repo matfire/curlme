@@ -8,9 +8,6 @@ const Footer = () => {
             © {new Date().getFullYear()} curlme. All rights reserved.
           </div>
           <div className="flex space-x-6">
-            <a href="#" className="text-gray-500 hover:text-curl transition-colors">
-              Documentation
-            </a>
             <a href="https://github.com/matfire/curlme" target="_blank" className="text-gray-500 hover:text-curl transition-colors">
               GitHub
             </a>
